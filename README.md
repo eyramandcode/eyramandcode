@@ -41,3 +41,5 @@ I'm a data professional with a background in engineering and experience in resea
 #### How to reach me
 - [LinkedIn](https://www.linkedin.com/in/eakabua/)
 - [Personal site](eyram.me) for writing + misc.
+
+*Can you spot the pun on this page?* 👀

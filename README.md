@@ -39,7 +39,8 @@ I'm a data professional with a background in engineering and experience in resea
 - **Domain Knowledge**: Chemical processes, materials characterization, experimental design, catalysis, coatings formulation + more
 
 #### How to reach me
-- [LinkedIn](https://www.linkedin.com/in/eakabua/)
-- [Personal site](https://eyram.me) for writing + misc.
+- <a href="https://www.linkedin.com/in/eakabua/" target="_blank">LinkedIn</a>
+- <a href="https://eyram.me" target="_blank">Personal site</a> for writing + misc.
+
 
 *Can you spot the pun on this page?* 👀
